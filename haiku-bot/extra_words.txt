@@ -2,3 +2,4 @@ hibiscus,3
 bot,1
 username,3
 kendal,2
+stonks,1
