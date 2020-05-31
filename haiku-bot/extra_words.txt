@@ -1,3 +1,4 @@
 hibiscus,3
 bot,1
 username,3
+kendal,2
